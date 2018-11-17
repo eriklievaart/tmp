@@ -1,0 +1,4 @@
+
+[bundle]
+org.apache.felix.fileinstall org.apache.felix 3.6.4
+
