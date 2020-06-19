@@ -1,4 +1,6 @@
 
 [bundle]
 org.apache.felix.fileinstall org.apache.felix 3.6.4
+org.apache.felix.shell org.apache.felix 1.4.3
+org.apache.felix.shell.tui org.apache.felix 1.4.1
 
